@@ -1,6 +1,6 @@
 # TTS_Leonardo
 
-Talker is a text-to-speech (TTS) library that converts text into spoken audio. It supports multiple TTS engines and voices.
+Talker is a simple text-to-speech (TTS) library that converts text into spoken audio. It supports multiple TTS engines and voices.
 
 ## Features
 
