@@ -10,6 +10,12 @@ Talker is a text-to-speech (TTS) library that converts text into spoken audio. I
 - Caches audio files to avoid generating duplicates
 - Falls back to offline pyttsx3 as a failsafe
 
+## Requirements
+- elevenlabs
+- gtts
+- playsound
+- pyttsx3
+
 ## Usage 
 
 Import the Talker class:
