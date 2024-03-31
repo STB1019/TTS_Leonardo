@@ -31,7 +31,7 @@ it = Talker("####jXaffad0Q2####", "####afkjajajkfkfajnka####", False)
 
 it.talk("Ciao")
 
-#Other exaples can be found inside the file Main.py
+#Other examples can be found inside the file Main.py
 
 ```
 
