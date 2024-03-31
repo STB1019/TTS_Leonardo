@@ -20,7 +20,7 @@ from talker import Talker
 #gTTS - language (you can find them here https://gtts.readthedocs.io/en/latest/module.html#module-gtts.tts) and "" (no api needed)
 ja = Talker("ja", "", False)
 
-#ElevenLabs - voice id (Note not voice name, like Laura, but voice id, that is alphanumberic) and api (this are not working examples)
+#ElevenLabs - voice id (Note not voice name, like Laura, but voice id, that is alphanumeric) and api (this are not working examples)
 it = Talker("jX####affa####d0Q2", "afkjaj#####ajkfkfajnka###", False)
 
 ```
