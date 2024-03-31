@@ -23,6 +23,10 @@ ja = Talker("ja", "", False)
 #ElevenLabs - voice id (Note not voice name, like Laura, but voice id, that is alphanumeric) and api (this are not working examples)
 it = Talker("jX####affa####d0Q2", "afkjaj#####ajkfkfajnka###", False)
 
+it.talk("Ciao")
+
+#Other exaples can be found inside the file Main.py
+
 ```
 
 The text will be converted to speech and played back immediately (A little delay is present if is not already in the database).
